@@ -7,6 +7,14 @@ body{
 	
 }
 
+.a2{color:aliceblue;
+	
+	
+}
+a{
+	color: #B01B5D
+}
+
 div{
 align-content: center;
 }
@@ -25,6 +33,7 @@ align-content: center;
 	text-align: center;
 	font-size: 14pt;
 	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color:aliceblue;
 	
 	
 }
@@ -32,7 +41,7 @@ align-content: center;
 #navi li{
 	display:inline-block;
 	padding:20px;
-	
+	color:aliceblue;
 }
 
 #header{
@@ -49,6 +58,7 @@ align-content: center;
 	margin:20px 20px 20px 20px;
 	font-size: 30px;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color:#8FBC8F;
 	
 }
 
@@ -56,6 +66,7 @@ align-content: center;
 	text-align:left;
 	margin:10px 20px 10px 20px;
 	font-size:15px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	
 
 }
@@ -65,6 +76,7 @@ align-content: center;
 	margin:40px 20px 20px 20px;
 	font-size: 27px;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color:#8FBC8F;
 	
 }
 
@@ -114,6 +126,7 @@ align-content: center;
 	background-color:#FFFFFF;
 	float: left;
 	margin:5px 5px 5px 5px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 
 }
 
@@ -123,6 +136,7 @@ align-content: center;
 	background-color:#FFFFFF;
 	float: left;
 	margin:5px 5px 5px 10px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	
 }
 
@@ -130,7 +144,8 @@ align-content: center;
 	text-align:left;
 	margin:20px 20px 5px 20px;
 	font-size: 20px;
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";	color:#8FBC8F;
+	
 	
 }
 
@@ -164,10 +179,12 @@ align-content: center;
 	padding-top: 20px;
 	padding-bottom: 20px;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: #8FBC8F;
 }
 
 .p3{
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+
 }
 
 .pf{
@@ -176,6 +193,9 @@ align-content: center;
 	margin: 80px 20px 20px -20px;
 	text-align:center;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color:aliceblue;
 	
 }
 
+.a2 {
+}
