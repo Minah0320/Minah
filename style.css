@@ -22,7 +22,7 @@ align-content: center;
 
 #container{
 	width:900px;
-	background:#8FBC8F;
+	background:#FFFFF;
 	border:1px solid #FFFFFF;
 	margin:20px 20px 20px 20px;
 	padding: 0px;
@@ -56,15 +56,15 @@ align-content: center;
 .h1{
 	text-align:left;
 	margin:20px 20px 20px 20px;
-	font-size: 30px;
+	font-size: 40px;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color:#8FBC8F;
 	
 }
 
 .p{
-	text-align:left;
-	margin:10px 20px 10px 20px;
+	text-align:justify;
+	margin:40px 20px 10px 20px;
 	font-size:15px;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	
@@ -73,7 +73,7 @@ align-content: center;
 
 .h1_2{
 	text-align:left;
-	margin:40px 20px 20px 20px;
+	margin:80px 20px 20px 20px;
 	font-size: 27px;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color:#8FBC8F;
@@ -82,10 +82,16 @@ align-content: center;
 
 
 .pp{
-	text-align:left;
+	text-align:justify;
 	margin:5px 20px 30px 20px;
 	font-size: 15px;
 	
+	
+}
+
+.img_2{
+	display: block;
+     margin:10px 20px 20px 30px;
 	
 }
 
@@ -96,16 +102,17 @@ align-content: center;
 }
 
 .pppp{
-	text-align:left;
+	text-align:justify;
 	margin:5px 20px 30px 20px;
 	font-size: 15px;	
 }
 
+
+
 #contaioner2{
 	width:900px;
-	height: 560px;
-	background:#8FBC8F;
-	border:1px solid #FFFFFF;
+	height: 1130px;
+	background:#FFFFFF;
 	margin:20px 20px 20px 20px;
 	padding: 20px;
 	
@@ -134,42 +141,47 @@ align-content: center;
 	width:375px;
 	height:310px;
 	background-color:#FFFFFF;
-	float: left;
-	margin:5px 5px 5px 10px;
+	float: right;
+	margin:50px 5px 5px 10px;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	
 }
 
+
+.img_1{
+     display: block;
+     margin:30px 20px 20px 60px;
+   }
+
+
 .b2_h1{
-	text-align:left;
-	margin:20px 20px 5px 20px;
-	font-size: 20px;
+	text-align:right;
+	margin:20px 30px 5px 20px;
+	font-size: 27px;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";	color:#8FBC8F;
 	
 	
 }
 
 .b2_p{
-	text-align:left;
-	margin:10px 20px 30px 20px;
-	font-size: 13px;
+	text-align:justify;
+	margin:10px 30px 30px 20px;
+	font-size: 15px;
 	
 }
 
-#seciton-1{
-	height:300px;
-	width:900px;
-	background-color:#BBD4BA;
-	margin:620px 20px 20px -20px;
-	padding:20px;
-	align-content: center;
+.img_3{
+	display: block;
+     margin:85px 30px 20px 10px;
 }
+
 
 .box_3{
 		background-color: #FFFFFF;
-	width: 860px;
+	width: 940px;
 	height: 250px;
-	margin:10px 10px 10px 10px;
+	margin:-490px 10px 10px -20px;
+	background-color: #8FBC8F;
 	align-content: center;
 	
 }
@@ -179,7 +191,9 @@ align-content: center;
 	padding-top: 20px;
 	padding-bottom: 20px;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	color: #8FBC8F;
+	color: #FFFFFF;
+	margin: 630px 10px 10px 30px
+	
 }
 
 .p3{
@@ -190,12 +204,29 @@ align-content: center;
 .pf{
 	height:60px;
 	width:900px;
-	margin: 80px 20px 20px -20px;
+	margin-top:70px;
 	text-align:center;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color:aliceblue;
 	
 }
 
-.a2 {
+.fig {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	text-align: center;
+	font-size: 13px;
+	margin: 10px -40px 10px 10px;
+	
+}
+.fig2 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	text-align: center;
+	font-size: 13px;
+	margin: -30px -510px 10px 10px;
+}
+.fig3 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	text-align: center;
+	font-size: 13px;
+	margin: 10px 370px 10px 10px;
 }
