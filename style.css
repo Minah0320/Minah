@@ -8,9 +8,10 @@ body{
 }
 
 .a2{color:aliceblue;
-	
+
 	
 }
+
 a{
 	color: #B01B5D
 }
@@ -91,7 +92,7 @@ align-content: center;
 
 .img_2{
 	display: block;
-     margin:10px 20px 20px 30px;
+     margin:90px 20px  20px 20px;
 	
 }
 
@@ -111,7 +112,7 @@ align-content: center;
 
 #contaioner2{
 	width:900px;
-	height: 1130px;
+	height: 1085px;
 	background:#FFFFFF;
 	margin:20px 20px 20px 20px;
 	padding: 20px;
@@ -150,7 +151,7 @@ align-content: center;
 
 .img_1{
      display: block;
-     margin:30px 20px 20px 60px;
+     margin:30px 20px 20px 20px;
    }
 
 
@@ -172,12 +173,11 @@ align-content: center;
 
 .img_3{
 	display: block;
-     margin:85px 30px 20px 10px;
+     margin:85px 20px 20px 10px;
 }
 
 
 .box_3{
-		background-color: #FFFFFF;
 	width: 940px;
 	height: 250px;
 	margin:-490px 10px 10px -20px;
@@ -215,14 +215,14 @@ align-content: center;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	text-align: center;
 	font-size: 13px;
-	margin: 10px -40px 10px 10px;
+	margin: 10px -45px 10px 10px;
 	
 }
 .fig2 {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	text-align: center;
 	font-size: 13px;
-	margin: -30px -510px 10px 10px;
+	margin: -30px -500px 10px 10px;
 }
 .fig3 {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
