@@ -6,20 +6,54 @@
 	
 }
 
-a:link {
+
+
+.th2:link {
   text-decoration: none;
+color:#04447C;;
 }
-/* mouse over link */
-a:hover {
+
+.th2:hover {
   color: #fbe10c;
 }
+
+.th2-1:link {
+  text-decoration: none;
+color:#04447C;;
+}
+
+.th2-1:hover {
+  color: #fbe10c;
+}
+
+.h7:link {
+  text-decoration: none;
+color:#04447C;;
+}
+
+.h7:hover {
+  color: #fbe10c;
+}
+
+
+.th5:link {
+  text-decoration: none;
+color:#04447C;;
+}
+
+.th5:hover {
+  color: #fbe10c;
+}
+
 
 .h5{
 	font-family:"Helvetica", "sans-serif";
 	font-size: 17px;
 }
 
-
+.th5{
+	color:black;
+}
 .table1{
 	margin-right: 140px;
 }
@@ -72,6 +106,7 @@ a:hover {
 }
 
 
+
 #navi li{
 	display:inline-block;
 	padding:60px;
@@ -85,6 +120,7 @@ a:hover {
 	margin-top: 80px;
 	
 }
+
 
 
 
@@ -199,8 +235,8 @@ color:#fbe10c;
 
 .h7{
 	text-align: right;
-    color:#691919;
-	font-size: 30px;
+    color:aliceblue;
+	font-size: 20px;
     font-family: "helvetica", "sans-serif";
 	
 }
@@ -224,6 +260,15 @@ color:#fbe10c;
 	text-align: center;
 }
 
+
+.a3:link {
+  text-decoration: none;
+color:#04447C;;
+}
+
+.a3:hover {
+  color: #fbe10c;
+}
 
 .a3{
 	color:#04447C;
@@ -274,7 +319,7 @@ color:#fbe10c;
 .t3 {
 	margin-top:-130px;
 	text-align: right;
-	padding-right: 30px;
+	padding-right: 20px;
 
 }
 
@@ -290,6 +335,7 @@ color:#fbe10c;
 }
 
 .overlay {
+	display: block;
   position:absolute;
   top: 0;
   bottom: 0;
@@ -298,7 +344,7 @@ color:#fbe10c;
   width: 1000px;
 height:500px;
   opacity: 0;
-  transition: .3s ease;
+  -webkit-transition: .3s ease;
   background-color:#04447C;
 }
 
@@ -315,6 +361,7 @@ height:500px;
   top: 50%;
   left: 50%;
   text-align: center;
+font-family: helvetica,"sans-serif"
 }
 
 
@@ -374,13 +421,40 @@ height:500px;
 }
 
 
-.table5 {
-	color: aliceblue;
+
+
+.th4 {
+	color:aliceblue;
+}
+.th5 {
+	color:black;
+}
+
+.a2:link {
+  text-decoration: none;
+color:#04447C;
+}
+
+.a2:hover {
+  color: #fbe10c;
 }
 
 
+.a4:link {
+  text-decoration: none;
+color:#04447C;
+}
+/* mouse over link */
+.a4:hover {
+  color: #fbe10c;
+}
 
-.table1 {
+a:link {
+  text-decoration: none;
+color:aliceblue;
 }
-.menu {
+/* mouse over link */
+a:hover {
+  color: #fbe10c;
 }
+
