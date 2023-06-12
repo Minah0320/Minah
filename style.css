@@ -141,8 +141,6 @@ color:#04447C;;
 #table{
 	padding:20px 20px 20px 20px;
 	float:left;
-	padding: 20px 20px 20px 20px;
-	
 	
 }
 
@@ -360,20 +358,8 @@ font-family: helvetica, "sans-serif";
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
   text-align: center;
 }
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -398,11 +384,10 @@ font-family: helvetica, "sans-serif";
 }
 
 .table3{
-	padding: 30px 10px 10px 10px;
+	padding: 30px 30px 30px 30px;
 	background-color:#04447C; /* Green */
   border: none; 
 	text-align: center;
-  padding: 30px 35px;
   text-decoration: none;
   display: inline-block;
   font-size: 30px;
@@ -470,3 +455,13 @@ a:hover {
   color: #fbe10c;
 }
 
+.table5{
+	padding:30px;
+	color: aliceblue;
+}
+.a5 {
+	color: aliceblue;
+}
+.a6 {
+	color:aliceblue;
+}
